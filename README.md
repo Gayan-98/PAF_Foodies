@@ -48,5 +48,5 @@ Foodie Social Media Platform is a web application designed to connect food and b
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Gayan-98/PAF_Foodies.git)https://github.com/Gayan-98/PAF_Foodies.git
-   cd foodie-social-media-platform
+   cd PAF_Foodies
 
