@@ -5,11 +5,11 @@ Foodie Social Media Platform is a web application designed to connect food and b
 
 ## Features
 
-- **Create and Edit Posts:**
-  - Users can create posts with 1 to 4 photos and a description of their dining experiences. Posts can be edited or deleted later.
-
 - **User Profiles:**
   - Each user has a public profile displaying their posts. Users can view their own profiles, explore suggestions, and search for other users.
+
+- **Create and Edit Posts:**
+  - Users can create posts with 1 to 4 photos and a description of their dining experiences. Posts can be edited or deleted later.
 
 - **Follow Users:**
   - Connect with other users by following them. All profiles are public for easy discovery and connection.
