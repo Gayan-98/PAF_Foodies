@@ -1,5 +1,4 @@
-# PAF_Foodies
- 
+
 # Foodie Social Media Platform
 
 Foodie Social Media Platform is a web application designed to connect food and beverage enthusiasts. Share your culinary experiences, follow other foodies, and engage in a vibrant community.
