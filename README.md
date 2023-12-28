@@ -20,9 +20,6 @@ Foodie Social Media Platform is a web application designed to connect food and b
 - **Comment Management:**
   - The original post owner has the ability to delete any comments made on their posts.
 
-- **User-Friendly Interface:**
-  - Designed with simplicity in mind, catering to users from non-technical backgrounds. Enjoy an intuitive and easy-to-use platform.
-
 - **Microservices Architecture:**
   - The middle-tier development of the Foodie Social Media Platform utilizes a microservices architecture.
 
