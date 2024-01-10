@@ -24,7 +24,7 @@ Foodie Social Media Platform is a web application designed to connect food and b
   - The middle-tier development of the Foodie Social Media Platform utilizes a microservices architecture.
 
     ```plaintext
-    +---------------------+
++---------------------+
 |       User          |
 +---------------------+
         |
@@ -43,6 +43,7 @@ Foodie Social Media Platform is a web application designed to connect food and b
                            +--------------------------+
                            |      Notification      |
                            +--------------------------+
+
 
     ```
 
