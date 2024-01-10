@@ -20,9 +20,6 @@ Foodie Social Media Platform is a web application designed to connect food and b
 - **Comment Management:**
   - The original post owner has the ability to delete any comments made on their posts.
 
-- **User-Friendly Interface:**
-  - Designed with simplicity in mind, catering to users from non-technical backgrounds. Enjoy an intuitive and easy-to-use platform.
-
 - **Microservices Architecture:**
   - The middle-tier development of the Foodie Social Media Platform utilizes a microservices architecture.
 
@@ -50,6 +47,6 @@ Foodie Social Media Platform is a web application designed to connect food and b
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository-url]
-   cd foodie-social-media-platform
+   git clone https://github.com/Gayan-98/PAF_Foodies.git)https://github.com/Gayan-98/PAF_Foodies.git
+   cd PAF_Foodies
 
