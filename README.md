@@ -1,4 +1,3 @@
-
 # Foodie Social Media Platform
 
 Foodie Social Media Platform is a web application designed to connect food and beverage enthusiasts. Share your culinary experiences, follow other foodies, and engage in a vibrant community.
@@ -10,6 +9,9 @@ Foodie Social Media Platform is a web application designed to connect food and b
 
 - **Create and Edit Posts:**
   - Users can create posts with 1 to 4 photos and a description of their dining experiences. Posts can be edited or deleted later.
+ 
+  -  **Create and Edit Status:**
+  - Users can create Status and can be edited or deleted later.
 
 - **Follow Users:**
   - Connect with other users by following them. All profiles are public for easy discovery and connection.
@@ -24,27 +26,25 @@ Foodie Social Media Platform is a web application designed to connect food and b
   - The middle-tier development of the Foodie Social Media Platform utilizes a microservices architecture.
 
     ```plaintext
-+---------------------+
-|       User          |
-+---------------------+
-        |
-+---------------------+
-|       Status        |
-+---------------------+
-        |
-+---------------------+       +------------------------+       +----------------------+
-|       Post          | <---  |       Photo            | <---  |       Status         |
-+---------------------+       +------------------------+       +----------------------+
-        |                          |                            |
-+---------------------+       +------------------------+       +----------------------+
-|       Follow        |       |        Like            |       |      Comment         |
-+---------------------+       +------------------------+       +----------------------+
-                                |
-                           +--------------------------+
-                           |      Notification      |
-                           +--------------------------+
-
-
+    +---------------------+
+    |       User          |
+    +---------------------+
+            |
+    +---------------------+
+    |       Status        |
+    +---------------------+
+            |
+    +---------------------+       +------------------------+       +----------------------+
+    |       Post          | <---  |       Photo            | <---  |       Status         |
+    +---------------------+       +------------------------+       +----------------------+
+            |                          |                            |
+    +---------------------+       +------------------------+       +----------------------+
+    |       Follow        |       |        Like            |       |      Comment         |
+    +---------------------+       +------------------------+       +----------------------+
+                                    |
+                               +--------------------------+
+                               |      Notification      |
+                               +--------------------------+
     ```
 
 - **Synchronous Communication with Spring RestTemplate:**
@@ -57,6 +57,5 @@ Foodie Social Media Platform is a web application designed to connect food and b
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Gayan-98/PAF_Foodies.git)https://github.com/Gayan-98/PAF_Foodies.git
+   git clone https://github.com/Gayan-98/PAF_Foodies.git
    cd PAF_Foodies
-
