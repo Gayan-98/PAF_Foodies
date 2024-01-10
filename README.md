@@ -28,11 +28,7 @@ Foodie Social Media Platform is a web application designed to connect food and b
     ```plaintext
     +---------------------+
     |       User          |
-    +---------------------+
-            |
-    +---------------------+
-    |       Status        |
-    +---------------------+
+    +---------------------+             
             |
     +---------------------+       +------------------------+       +----------------------+
     |       Post          | <---  |       Photo            | <---  |       Status         |
