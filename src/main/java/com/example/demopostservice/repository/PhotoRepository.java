@@ -1,0 +1,8 @@
+package com.example.demopostservice.repository;
+
+import com.example.demopostservice.model.Photo;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface PhotoRepository extends JpaRepository<Photo,Long> {
+
+}
